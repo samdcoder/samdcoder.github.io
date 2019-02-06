@@ -1,9 +1,9 @@
 # main text of home
-name: John Doe
-bio: A Man who travels the world eating noodles
+name: Sameer Pathan
+bio: Software Developer
 
 # twitter summary info
-description: A blog about technology and stuff related
+description: My personal blog
 
 # if it's an external image, update below for true
 # better with square images
@@ -14,7 +14,7 @@ picture: assets/images/profile.jpg
 # and specify source (external or local).
 resume: true
 resume-external: true
-resume-url: https://google.com/?q=my+resume
+resume-url: https://docs.google.com/document/d/1SHC6i3Lo8DKQ6PrJuCfOj_hV2b1B_fgO6KvIonbxmec/edit?usp=sharing
 
 url: https://koppl.in/indigo
 # your url: http://USERNAME.github.io
