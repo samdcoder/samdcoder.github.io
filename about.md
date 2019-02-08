@@ -28,7 +28,7 @@ I enjoy learning new technologies & software tools.
 <h2>Projects</h2>
 
 <ul>
-	<li><a href="https://github.com/">Lorem Lorem</a></li>
-	<li><a href="https://github.com/">Ipsum Dolor</a></li>
-	<li><a href="https://github.com/">Dolor Lorem</a></li>
+	<li><a href="https://github.com/samdcoder/google-maps-polygon">Google Maps Vendor Finder</a></li>
+	<li><a href="https://github.com/samdcoder/spam-detector">Machine Learning Spam Detector</a></li>
+	<li><a href="https://github.com/samdcoder/sms-sender">SMS Sender</a></li>
 </ul>
