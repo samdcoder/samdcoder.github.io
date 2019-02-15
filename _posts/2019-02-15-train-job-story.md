@@ -5,7 +5,7 @@ date: 2019-02-15
 headerImage: false
 category: blog
 author: sameerpathan
-description: Story of a random job offer
+description: 
 ---
 
 
