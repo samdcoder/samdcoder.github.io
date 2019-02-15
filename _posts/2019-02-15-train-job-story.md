@@ -5,7 +5,7 @@ date: 2019-02-15
 headerImage: false
 category: blog
 author: sameerpathan
-description: 
+description:
 ---
 
 
@@ -39,6 +39,8 @@ Python v/s Node.js, Django v/s Express and other similar questions. The intervie
 I was immediately informed that I have cleared the telephonic interview and will be given a programming assignment as the next step in the interview process. I had to complete the assignment in 3-4 days.
 
 The assignment required me to build a complete full stack application(prototype), pushing the code to Github with frequent commits & deploying it live on a server.
+
+It was a challenge for me to complete the assignment in 3-4 days as I was already working as a full time Software Engineer in a high paced startup. Also the problem statement was completely new to me so there were a lot of things I needed to figure out. Somehow after spending a couple of hours every day after work, I managed to complete the application in time!
 
 I built the application using Node.js, Express.js for the backend APIs, Vanilla JavaScript, Bootstrap & some other libraries for the front end, MongoDB as my database which I
 hosted on a remote Atlas Server. I finally deployed the application on Heroku.
