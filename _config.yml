@@ -92,6 +92,8 @@ show-author: true
 # do you want some animations?
 animation: true
 
+analytics-google: 'UA-134627817-1'
+
 plugins:
   - jekyll-seo-tag
   - jekyll-gist
