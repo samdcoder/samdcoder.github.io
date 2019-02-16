@@ -50,6 +50,12 @@ After submitting the application I got a call for the final interview in their M
 My final interview was scheduled on the upcoming friday. I was going to be interviewed by one of their senior full stack developers. The final interview consisted of a brief discussion on the programming assignment from the previous round, some improvements that could be added on the top of existing code
 & other discussion on Node.js, JavaScript, some problems on Algorithms & Data Structures.
 
+It was one of the best & longest interviews I have ever had. The interview was supposed to last for an hour but it ended up being a 2 hour interview! The interviewer was very excited to know about my background in Algorithms & Programming Competitions so he threw a lot of algorithmic problems at me.
+
+We went on to discuss some practical applications of the algorithms we were discussing. He challenged me with some new problems which required me to use the standard data structures in interesting ways. I was asked to implement some data structures and explain the time complexities of different operations on them.
+
+It felt more like a deep technical discussion between 2 engineers than an interview. In fact in one of the discussions on time complexitiy analysis the interviewer made an error & I corrected him. He quickly realized it & humbly accepted it. In the end, the interviewer  realized that we had spent far too much time with this interview so unfortunately we had to stop our discussion there.
+
 After a couple of days after the final interview, I was given a job offer.
 
 I didn't end up joining there as I had other offers in hand but it ended up being an interesting experience to share!
