@@ -1,4 +1,95 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.7.4">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2019-02-16T10:53:51+05:30</updated><id>http://localhost:4000/feed.xml</id><title type="html">Sameer Pathan</title><subtitle>My personal blog</subtitle><entry><title type="html">How a random conversation on a train led to a job offer!</title><link href="http://localhost:4000/train-job-story/" rel="alternate" type="text/html" title="How a random conversation on a train led to a job offer!" /><published>2019-02-15T00:00:00+05:30</published><updated>2019-02-15T00:00:00+05:30</updated><id>http://localhost:4000/train-job-story</id><content type="html" xml:base="http://localhost:4000/train-job-story/">&lt;p&gt;It was 1st of November 2018 &amp;amp; I was looking for a job switch. After work, I boarded a train from Santacruz and fortunately got a seat.&lt;/p&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.7.4">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2019-04-05T13:43:16+05:30</updated><id>http://localhost:4000/feed.xml</id><title type="html">Sameer Pathan</title><subtitle>My personal blog</subtitle><entry><title type="html">Lets Go!</title><link href="http://localhost:4000/learning-go/" rel="alternate" type="text/html" title="Lets Go!" /><published>2019-04-05T00:00:00+05:30</published><updated>2019-04-05T00:00:00+05:30</updated><id>http://localhost:4000/learning-go</id><content type="html" xml:base="http://localhost:4000/learning-go/">&lt;p&gt;&lt;img src=&quot;https://cdn-images-1.medium.com/max/1600/1*vHUiXvBE0p0fLRwFHZuAYw.gif&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;It’d been a while since I had learnt or tried any new programming language. The last programming language I learnt was Python which was over 2.5 years ago! Python started out as a hobby to hack around with some cool scripts to automate tasks.&lt;/p&gt;
+
+&lt;p&gt;These days I primarily work with JavaScript/Node.js along with Python.&lt;/p&gt;
+
+&lt;p&gt;Last weekend I decided to try the Google’s famous programming lanugage Go!&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;https://media.giphy.com/media/KGVgi2nOVkCoE/giphy.gif&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Go has been built for scale and is expected to be a very strong choice in enterprise space in near future! Being a compiled language it really out performs popular interpreted languages such as Python and JavaScript which are heavily used in backend development.&lt;/p&gt;
+
+&lt;p&gt;Go could be a good alternative to the above programming languages especially if your application requires high computation on the backend. It brings out the accuracy of statically typed languages and ease of dynamically typed languages.&lt;/p&gt;
+
+&lt;p&gt;I roughly spent 15 hours on learning Go in 1 week and wrote about 15-20 small programs experimenting with the basic syntax of the language such as data types, conditions, functions, looping along with some data structures like slices, maps, etc.&lt;/p&gt;
+
+&lt;p&gt;I started with sentdex’s tutorials and watched about 12-14 video lectures. I then refered to the famous Go blog
+gobyexample.com to look up at examples and play around with them on my own. I also watched a 1 hour YouTube video on the language explaining all the basic concepts quickly.&lt;/p&gt;
+
+&lt;p&gt;Learning syntax is important but not enough to really understand a programming language. I am a strong believer in learning by doing. So I decided to build some simple applications using Go to improve my understanding of the language.&lt;/p&gt;
+
+&lt;p&gt;I built some simple web services using it such as a simple echo server, services interacting with Google APIs to
+return some search results to the user in JSON format, etc.&lt;/p&gt;
+
+&lt;p&gt;My overall experience with the language was very solid. As I have used C and C++ extensively (for 4-5 years) in past for competitive programming and for solving problems on algorithms and data structures, I could quickly grasp the basic syntax in a couple of hours.&lt;/p&gt;
+
+&lt;h4&gt; A few things that struck me as unique/different/amazing about Go are: &lt;/h4&gt;
+
+&lt;p&gt;1) If there are any unused imports or variables, your program won’t run. This is a good practice from software quality
+point of view but could be really annoying if you are quickly trying to hack some programs!&lt;/p&gt;
+&lt;hr /&gt;
+
+&lt;p&gt;2) Go feels more restrictive overall and strict about the style/pattern with which you write code. For example: You cannot write else or else if
+on new lines, they need to adhere to the coding style recommended by Google/Go.&lt;/p&gt;
+&lt;hr /&gt;
+
+&lt;p&gt;3) It might take some time to wrap your head around a few things at first, for example here is a code in Go to initialize an array of size 5 with numbers 1 to 5.&lt;/p&gt;
+
+&lt;figure class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;language-go&quot; data-lang=&quot;go&quot;&gt;&lt;span class=&quot;n&quot;&gt;b&lt;/span&gt;&lt;span class=&quot;x&quot;&gt; &lt;/span&gt;&lt;span class=&quot;o&quot;&gt;:=&lt;/span&gt;&lt;span class=&quot;x&quot;&gt; &lt;/span&gt;&lt;span class=&quot;p&quot;&gt;[&lt;/span&gt;&lt;span class=&quot;m&quot;&gt;5&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;]&lt;/span&gt;&lt;span class=&quot;kt&quot;&gt;int&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;{&lt;/span&gt;&lt;span class=&quot;m&quot;&gt;1&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt;&lt;span class=&quot;x&quot;&gt; &lt;/span&gt;&lt;span class=&quot;m&quot;&gt;2&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt;&lt;span class=&quot;x&quot;&gt; &lt;/span&gt;&lt;span class=&quot;m&quot;&gt;3&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt;&lt;span class=&quot;x&quot;&gt; &lt;/span&gt;&lt;span class=&quot;m&quot;&gt;4&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt;&lt;span class=&quot;x&quot;&gt; &lt;/span&gt;&lt;span class=&quot;m&quot;&gt;5&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;}&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/figure&gt;
+
+&lt;p&gt;We use := if we are initializing and declaring a variable at the same time.&lt;/p&gt;
+
+&lt;p&gt;It is much more intuitive in C++ with:&lt;/p&gt;
+
+&lt;figure class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;language-c--&quot; data-lang=&quot;c++&quot;&gt;&lt;span class=&quot;kt&quot;&gt;int&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;b&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;[&lt;/span&gt;&lt;span class=&quot;mi&quot;&gt;5&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;]&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;{&lt;/span&gt;&lt;span class=&quot;mi&quot;&gt;1&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt;&lt;span class=&quot;mi&quot;&gt;2&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt;&lt;span class=&quot;mi&quot;&gt;3&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt;&lt;span class=&quot;mi&quot;&gt;4&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt;&lt;span class=&quot;mi&quot;&gt;5&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;};&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/figure&gt;
+
+&lt;p&gt;It’s easier to understand such things if you look at them through generic ways like:&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;&lt;code class=&quot;highlighter-rouge&quot;&gt;&amp;lt;name&amp;gt; := [&amp;lt;size&amp;gt;] &amp;lt;data_type&amp;gt; {values1, value2}&lt;/code&gt;&lt;/strong&gt;&lt;/p&gt;
+&lt;hr /&gt;
+
+&lt;p&gt;4) You can create functions in Go that can return multiple values which is not possible in most of the programming languages.&lt;/p&gt;
+
+&lt;figure class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;language-go&quot; data-lang=&quot;go&quot;&gt;&lt;span class=&quot;k&quot;&gt;func&lt;/span&gt;&lt;span class=&quot;x&quot;&gt; &lt;/span&gt;&lt;span class=&quot;n&quot;&gt;vals&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;()&lt;/span&gt;&lt;span class=&quot;x&quot;&gt; &lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;kt&quot;&gt;int&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt;&lt;span class=&quot;x&quot;&gt; &lt;/span&gt;&lt;span class=&quot;kt&quot;&gt;int&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt;&lt;span class=&quot;x&quot;&gt; &lt;/span&gt;&lt;span class=&quot;p&quot;&gt;{&lt;/span&gt;&lt;span class=&quot;x&quot;&gt;
+    &lt;/span&gt;&lt;span class=&quot;k&quot;&gt;return&lt;/span&gt;&lt;span class=&quot;x&quot;&gt; &lt;/span&gt;&lt;span class=&quot;m&quot;&gt;3&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt;&lt;span class=&quot;x&quot;&gt; &lt;/span&gt;&lt;span class=&quot;m&quot;&gt;7&lt;/span&gt;&lt;span class=&quot;x&quot;&gt;
+&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;}&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/figure&gt;
+
+&lt;p&gt;Here function vals returns 2 integers.&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;p&gt;5) You can create functions in Go that can accept any number of arguments. These functions are called variadic functions.&lt;/p&gt;
+
+&lt;h4&gt; Example of Variadic functions &lt;/h4&gt;
+
+&lt;figure class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;language-go&quot; data-lang=&quot;go&quot;&gt;&lt;span class=&quot;k&quot;&gt;func&lt;/span&gt;&lt;span class=&quot;x&quot;&gt; &lt;/span&gt;&lt;span class=&quot;n&quot;&gt;sum&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;nums&lt;/span&gt;&lt;span class=&quot;x&quot;&gt; &lt;/span&gt;&lt;span class=&quot;o&quot;&gt;...&lt;/span&gt;&lt;span class=&quot;kt&quot;&gt;int&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt;&lt;span class=&quot;x&quot;&gt; &lt;/span&gt;&lt;span class=&quot;p&quot;&gt;{&lt;/span&gt;&lt;span class=&quot;x&quot;&gt;
+  &lt;/span&gt;&lt;span class=&quot;n&quot;&gt;fmt&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;Print&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;nums&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt;&lt;span class=&quot;x&quot;&gt; &lt;/span&gt;&lt;span class=&quot;s&quot;&gt;&quot; &quot;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt;&lt;span class=&quot;x&quot;&gt;
+  &lt;/span&gt;&lt;span class=&quot;n&quot;&gt;total&lt;/span&gt;&lt;span class=&quot;x&quot;&gt; &lt;/span&gt;&lt;span class=&quot;o&quot;&gt;:=&lt;/span&gt;&lt;span class=&quot;x&quot;&gt; &lt;/span&gt;&lt;span class=&quot;m&quot;&gt;0&lt;/span&gt;&lt;span class=&quot;x&quot;&gt;
+  &lt;/span&gt;&lt;span class=&quot;k&quot;&gt;for&lt;/span&gt;&lt;span class=&quot;x&quot;&gt; &lt;/span&gt;&lt;span class=&quot;n&quot;&gt;_&lt;/span&gt;&lt;span class=&quot;x&quot;&gt; &lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt;&lt;span class=&quot;x&quot;&gt; &lt;/span&gt;&lt;span class=&quot;n&quot;&gt;num&lt;/span&gt;&lt;span class=&quot;x&quot;&gt; &lt;/span&gt;&lt;span class=&quot;o&quot;&gt;:=&lt;/span&gt;&lt;span class=&quot;x&quot;&gt; &lt;/span&gt;&lt;span class=&quot;k&quot;&gt;range&lt;/span&gt;&lt;span class=&quot;x&quot;&gt; &lt;/span&gt;&lt;span class=&quot;n&quot;&gt;nums&lt;/span&gt;&lt;span class=&quot;x&quot;&gt; &lt;/span&gt;&lt;span class=&quot;p&quot;&gt;{&lt;/span&gt;&lt;span class=&quot;x&quot;&gt;
+      &lt;/span&gt;&lt;span class=&quot;n&quot;&gt;total&lt;/span&gt;&lt;span class=&quot;x&quot;&gt; &lt;/span&gt;&lt;span class=&quot;o&quot;&gt;+=&lt;/span&gt;&lt;span class=&quot;x&quot;&gt; &lt;/span&gt;&lt;span class=&quot;n&quot;&gt;num&lt;/span&gt;&lt;span class=&quot;x&quot;&gt;
+  &lt;/span&gt;&lt;span class=&quot;p&quot;&gt;}&lt;/span&gt;&lt;span class=&quot;x&quot;&gt;
+  &lt;/span&gt;&lt;span class=&quot;n&quot;&gt;fmt&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;Println&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;total&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt;&lt;span class=&quot;x&quot;&gt;
+&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;}&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/figure&gt;
+
+&lt;p&gt;We can call the above function with any number of arguments (numbers) &amp;amp; it will print the total sum of all the values.&lt;/p&gt;
+&lt;hr /&gt;
+
+&lt;p&gt;6) Go feels incredibly simple to learn, especially if you come from C/C++ background. It’s like C and Python decided to have a baby. It’s simplicity can be naively demonstrated by its list of keywords.&lt;/p&gt;
+
+&lt;h4&gt; List of all the keywords in Go&lt;/h4&gt;
+
+&lt;p&gt;&lt;img src=&quot;https://image.slidesharecdn.com/golang101-170327030632/95/golang-101-concurrency-vs-parallelism-36-638.jpg?cb=149058419&quot; /&gt;
+Compare this with something like Java which is a widely used language in enterprise space &amp;amp; you will get an idea.&lt;/p&gt;
+
+&lt;h4&gt; List of all the keywords in Java&lt;/h4&gt;
+
+&lt;p&gt;&lt;img src=&quot;https://www.oreilly.com/library/view/oca-java-se/9781259587535/t0496-01.jpg&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Obviously the comparison isn’t completely fair as Go has been around just for a decade now and Java for a much more longer time. With new revisions, Java added features &amp;amp; keywords but it still gives us a rough idea about the gentle learning curve for Go.&lt;/p&gt;
+&lt;hr /&gt;
+
+&lt;p&gt;7) Goroutines make it possible to write non blocking code in synchronous manner. This is a huge advantage as you do not have to deal with things like callback, callback hell, etc which are available in programming languages like JavaScript. The Go runtime handles these things for you efficiently. Go being designed to be used internally at Google has managed to handle concurrency in a very efficient way.&lt;/p&gt;</content><author><name>sameerpathan</name></author><category term="blog" /><summary type="html"></summary></entry><entry><title type="html">How a random conversation on a train led to a job offer!</title><link href="http://localhost:4000/train-job-story/" rel="alternate" type="text/html" title="How a random conversation on a train led to a job offer!" /><published>2019-02-15T00:00:00+05:30</published><updated>2019-02-15T00:00:00+05:30</updated><id>http://localhost:4000/train-job-story</id><content type="html" xml:base="http://localhost:4000/train-job-story/">&lt;p&gt;It was 1st of November 2018 &amp;amp; I was looking for a job switch. After work, I boarded a train from Santacruz and fortunately got a seat.&lt;/p&gt;
 
 &lt;p&gt;A gentleman (lets call him X) probably in his early 50s, sitting next to me on the train was watching a JavaScript video on Prototypes on his phone.
 After a bit of hesitation, (I am not very good at striking conversations) I decided to talk to him.&lt;/p&gt;
