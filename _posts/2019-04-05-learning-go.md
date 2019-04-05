@@ -9,7 +9,7 @@ description: My experience with Go!
 ---
 
 
-<img src="https://cdn-images-1.medium.com/max/1600/1*vHUiXvBE0p0fLRwFHZuAYw.gif"/>
+![Gopher](/assets/images/gopher.gif)
 
 
 It'd been a while since I had learnt or tried any new programming language. The last programming language I learnt was Python which was over 2.5 years ago! Python started out as a hobby to hack around with some cool scripts to automate tasks.
