@@ -4,6 +4,7 @@ layout: post
 date: 2019-04-05
 headerImage: true
 category: blog
+author: sameerpathan
 description: My experience with Go!
 ---
 
