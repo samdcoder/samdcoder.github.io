@@ -90,7 +90,7 @@ func sum(nums ...int) {
 
 We can call the above function with any number of arguments (numbers) & it will print the total sum of all the values.
 <hr>
-6) Go feels incredibly simple to learn, especially if you come from C/C++ background. It's like C and Python decided to have a baby. It's simplicity can be naively demonstrated by its list of keywords.
+6) Go feels incredibly simple to learn, especially if you come from C/C++ background. It's like C and Python decided to have a baby. Its simplicity can be naively demonstrated by its list of keywords.
 
 <h4> List of all the keywords in Go</h4>
 
