@@ -25,7 +25,7 @@ Within 2 weeks I was able to get 2-3 job offers from startups in Mumbai & Pune. 
 
 To be honest, there is no fixed interview process when it comes to startups. I have seen startups who interview for 4-5 rounds rigorously and I have also seen startups who give out job offers without any formal interview process. The second kinds discuss some high level things about past projects, experience in a particular technology, etc.
 
-But with most of the startups, the thing that I found common is the assignment. More than 50% startups that I interviewed with gave me some kind of assignment which required me to build an application to solve a problem in a span of 3 to 5 days.
+But with most of the startups, the thing that I found common is the assignment. More than 50% of startups that I interviewed with gave me some kind of assignment which required me to build an application to solve a problem in a span of 3 to 5 days.
 
 The assignment ranged from very easy to medium difficulty levels. A few required only to build a simple CRUD application to store user data or something similar while there were others who were focusing on building full stack application with good code quality, deployment on a real time server & database, etc.  The difficulty & scope of the assignment also depends on the profile to which you are applying.
 
