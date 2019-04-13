@@ -1,4 +1,67 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.7.4">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2019-04-06T00:31:56+05:30</updated><id>http://localhost:4000/feed.xml</id><title type="html">Sameer Pathan</title><subtitle>My personal blog</subtitle><entry><title type="html">Lets Go!</title><link href="http://localhost:4000/learning-go/" rel="alternate" type="text/html" title="Lets Go!" /><published>2019-04-05T00:00:00+05:30</published><updated>2019-04-05T00:00:00+05:30</updated><id>http://localhost:4000/learning-go</id><content type="html" xml:base="http://localhost:4000/learning-go/">&lt;p&gt;&lt;img src=&quot;/assets/images/2019_04_05/gopher.gif&quot; alt=&quot;Gopher&quot; /&gt;&lt;/p&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.7.4">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2019-04-13T14:10:24+05:30</updated><id>http://localhost:4000/feed.xml</id><title type="html">Sameer Pathan</title><subtitle>My personal blog</subtitle><entry><title type="html">Working at startups!</title><link href="http://localhost:4000/working-at-startups/" rel="alternate" type="text/html" title="Working at startups!" /><published>2019-04-13T00:00:00+05:30</published><updated>2019-04-13T00:00:00+05:30</updated><id>http://localhost:4000/working-at-startups</id><content type="html" xml:base="http://localhost:4000/working-at-startups/">&lt;p&gt;The first thing that might bring to most peoples minds when they hear the word ‘startup’ is a cool, vibrant environment with casual
+dress code, bean bags, etc. Although all of this is true for most startups, there is more to it than its ‘cool culture’. Whatever I share in this blog post would be from my experience of working with technology startups as a Software Engineer. This may or may not apply to non tech startups and/or to non technology roles.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;https://i1.wp.com/allabouteve.co.in/wp-content/uploads/2017/12/freshdesk.jpg?resize=814%2C320&amp;amp;ssl=1&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;After my internship at IIT Bombay, I was looking for a job. I didn’t have a job from campus placement as I didn’t sit for placements (It’s a story for another day). I applied off campus &amp;amp; got a job offer from a service based MNC. I was looking forward to accept the offer as I didn’t have anything better at the time. It took some serious brain washing from my friends (especially the ones who had already joined a service based MNC and were regretting) to stop me from accepting the job offer.&lt;/p&gt;
+
+&lt;p&gt;“What would I do?” I thought.&lt;/p&gt;
+
+&lt;p&gt;A friend of mine who was already working for a startup suggested me to start applying to startups as they would pay better and I’ll get to learn more. I did some googling and found out about the best platforms to apply for startup jobs in India. I then created a profile on Angel list and started applying to startups.&lt;/p&gt;
+
+&lt;p&gt;Within 2 weeks I was able to get 2-3 job offers from startups in Mumbai &amp;amp; Pune. And that is how I started my journey of working with startups!&lt;/p&gt;
+
+&lt;h3&gt;Interview Process&lt;/h3&gt;
+
+&lt;p&gt;To be honest, there is no fixed interview process when it comes to startups. I have seen startups who interview for 4-5 rounds rigorously and I have also seen startups who give out job offers without any formal interview process. The second kinds discuss some high level things about past projects, experience in a particular technology, etc.&lt;/p&gt;
+
+&lt;p&gt;But with most of the startups, the thing that I found common is the assignment. More than 50% startups that I interviewed with gave me some kind of assignment which required me to build an application to solve a problem in a span of 3 to 5 days.&lt;/p&gt;
+
+&lt;p&gt;The assignment ranged from very easy to medium difficulty levels. A few required only to build a simple CRUD application to store user data or something similar while there were others who were focusing on building full stack application with good code quality, deployment on a real time server &amp;amp; database, etc.  The difficulty &amp;amp; scope of the assignment also depends on the profile to which you are applying.&lt;/p&gt;
+
+&lt;p&gt;For example: A Backend Engineer role would require you to build a set of APIs, connect it to a database &amp;amp; implement some kind of business logic &amp;amp; validations for a given problem statement, writing API documentation using tools like Swagger, etc.&lt;/p&gt;
+
+&lt;p&gt;A Full Stack Engineer role would require you to do everything you’d do for a backend engineer role along with connecting the backend with a front end framework or library like Reactjs, Angularjs or something similar, deploying the application using a cloud service provider like Heroku or Amazon Web Services, etc.&lt;/p&gt;
+
+&lt;p&gt;A few startups would accept your assignment in any technology as long as you solve the given problem while there are others who are very particular about the technology stack that you are choosing.&lt;/p&gt;
+
+&lt;h3&gt;Learning &amp;amp; Growth&lt;/h3&gt;
+
+&lt;p&gt;This is an area where I feel startups outshine any other type of organization. If you are a technical nerd and want to grow at rocket speed then I don’t think there could be any place better than a startup. If you are someone isn’t very passionate about taking on challenging work with strict deadlines &amp;amp; lack confidence when it comes to your tech skills then a startup may not be an ideal place for you.&lt;/p&gt;
+
+&lt;p&gt;If you have entrepreneurial ambitions then startups give you a very close look at how different operations are run and how different teams such as design, front end, back end, operations, finance, marketing work together.&lt;/p&gt;
+
+&lt;p&gt;The open culture of startups allow you to get a close look &amp;amp; learn from different teams. Also smaller teams mean you will almost always be part of meetings where important business decisions will be taken, marketing plans will be decided, etc. I have found the non technical knowledge gained from startups as useful as the technical skills.&lt;/p&gt;
+
+&lt;h3&gt; Compensation &lt;/h3&gt;
+
+&lt;p&gt;Again this point is very similar to the ‘Interview Process’ point. There is no defined range of salaries that startups offer. When we talk about service based companies like Infosys, TCS, Wipro, etc there is a range in which they offer salaries to a fresh graduate engineer. Fortunately this is not the case with startups.&lt;/p&gt;
+
+&lt;p&gt;There is a common misconception that I have seen in students where they feel startups pay lower salaries than MNCs. There are startups who pay lower than even these service based companies and there are ones who pay higher than even what investment banking firms pay to engineers. Compensation in startups directly depends on your skills, profile, previous internships experience, projects and many other such factors which prove that you are a valuable asset to have on the team.&lt;/p&gt;
+
+&lt;p&gt;Generally, early stage startups with no or low seed funding pay quite less while well funded startups tend to pay much better for obvious reasons. A lot of startups also offer equity to initial employees which could be really profitable in the long run if the startup works out really well.&lt;/p&gt;
+
+&lt;h3&gt; Work Life Balance &lt;/h3&gt;
+
+&lt;p&gt;This is an area where MNCs outmatch startups. There is little to very low work life balance when it comes to most of the startups. The learning and growth that you receive could be at the cost of your health, mental peace, lesser time spent with family/friends, etc. This is not to demotivate anyone but I wanted to give a fair assessment of startups in as unbiased way as possible.&lt;/p&gt;
+
+&lt;p&gt;A lot of startups have working saturdays, no fixed office hours, etc. Startups are not a 9 to 5 job and you would struggle here if you treat it like one. It’s very easy to burn out and give up.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;A few pointers for people interested in working for startups&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;1) Work on your skills before you apply. Working for startups is a roller coaster ride where you might not get time to work on your skills. Be prepared with at least more than basic knowledge of your technology stack.&lt;/p&gt;
+
+&lt;p&gt;2) Choose a company wisely. Read their glassdoor reviews if available. Talk to the employer clearly about your expectations, the work that you’ll be getting or any other question that you might have before you accept a job offer.&lt;/p&gt;
+
+&lt;p&gt;3) Choose learning over money. Decisions made solely on money are seldom right. In the initial years at least, it’s more important to arm yourself with knowledge &amp;amp; skills than money. Money and learning opportunity need not be mutually exclusive, but when it is, I’d rather choose learning.&lt;/p&gt;
+
+&lt;p&gt;4) Choose positions which give you major responsibilities &amp;amp; ownership of the work. No matter how many personal projects you have worked on, nothing teaches you more than writing software for production systems.&lt;/p&gt;
+
+&lt;p&gt;5) Treat your technology stack or programming languages like your friends and not like your wife, you can always have more than one. You should be open to learn new technologies, programming languages, frameworks, etc if required. I have seen far too many people being obsessed with a particular technology and in turn turning down good opportunities.&lt;/p&gt;
+
+&lt;p&gt;6) Put your projects on Github and be active on communities like LinkedIn. Have a strong profile on Angel List, Instahyre, Github, LinkedIn, etc. Human Resources and recruitment teams are always looking out for talented people on these platforms.&lt;/p&gt;
+
+&lt;p&gt;7) If possible, always try to have more than 1 job offer in hand. It not only gives you more options with which you can make better decisions but also helps you with things like salary negotiations.&lt;/p&gt;</content><author><name>sameerpathan</name></author><category term="blog" /><summary type="html">The first thing that might bring to most peoples minds when they hear the word ‘startup’ is a cool, vibrant environment with casual dress code, bean bags, etc. Although all of this is true for most startups, there is more to it than its ‘cool culture’. Whatever I share in this blog post would be from my experience of working with technology startups as a Software Engineer. This may or may not apply to non tech startups and/or to non technology roles.</summary></entry><entry><title type="html">Lets Go!</title><link href="http://localhost:4000/learning-go/" rel="alternate" type="text/html" title="Lets Go!" /><published>2019-04-05T00:00:00+05:30</published><updated>2019-04-05T00:00:00+05:30</updated><id>http://localhost:4000/learning-go</id><content type="html" xml:base="http://localhost:4000/learning-go/">&lt;p&gt;&lt;img src=&quot;/assets/images/2019_04_05/gopher.gif&quot; alt=&quot;Gopher&quot; /&gt;&lt;/p&gt;
 
 &lt;p&gt;It’d been a while since I had learnt or tried any new programming language. The last programming language I learnt was Python which was over 2.5 years ago! Python started out as a hobby to hack around with some cool scripts to automate tasks.&lt;/p&gt;
 
@@ -75,7 +138,7 @@ on new lines, they need to adhere to the coding style recommended by Google/Go.&
 &lt;p&gt;We can call the above function with any number of arguments (numbers) &amp;amp; it will print the total sum of all the values.&lt;/p&gt;
 &lt;hr /&gt;
 
-&lt;p&gt;6) Go feels incredibly simple to learn, especially if you come from C/C++ background. It’s like C and Python decided to have a baby. It’s simplicity can be naively demonstrated by its list of keywords.&lt;/p&gt;
+&lt;p&gt;6) Go feels incredibly simple to learn, especially if you come from C/C++ background. It’s like C and Python decided to have a baby. Its simplicity can be naively demonstrated by its list of keywords.&lt;/p&gt;
 
 &lt;h4&gt; List of all the keywords in Go&lt;/h4&gt;
 
