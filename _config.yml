@@ -8,7 +8,7 @@ description: My personal blog
 # if it's an external image, update below for true
 # better with square images
 external-image: false
-picture: assets/images/profile.jpg
+picture: assets/images/profile-cropped.jpg
 
 # If you want to include your resume, set to true
 # and specify source (external or local).
@@ -55,7 +55,7 @@ authors:
         name: Sameer Pathan
         bio: I write code for food!
         external-image: false
-        picture: assets/images/profile.jpg
+        picture: assets/images/profile-cropped.jpg
         #twitter: johndoe
 
 # do you want a larger site? change the option below
