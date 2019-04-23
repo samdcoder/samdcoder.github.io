@@ -38,7 +38,7 @@ A few startups would accept your assignment in any technology as long as you sol
 
 <h3>Learning & Growth</h3>
 
-This is an area where I feel startups outshine any other type of organization. If you are a technical nerd and want to grow at rocket speed then I don't think there could be any place better than a startup. If you are someone isn't very passionate about taking on challenging work with strict deadlines & lack confidence when it comes to your tech skills then a startup may not be an ideal place for you.
+This is an area where I feel startups outshine any other type of organization. If you are a technical nerd and want to grow at rocket speed then I don't think there could be any place better than a startup. If you are someone who isn't very passionate about taking on challenging work with strict deadlines & lack confidence when it comes to your tech skills then a startup may not be an ideal place for you.
 
 If you have entrepreneurial ambitions then startups give you a very close look at how different operations are run and how different teams such as design, front end, back end, operations, finance, marketing work together.
 
